@@ -1,7 +1,7 @@
 const tf = require("@tensorflow/tfjs-node");
 
 const modelUrl =
-  "https://storage.googleapis.com/submission-brilly-models/model-ml/model.json";
+  "https://storage.googleapis.com/submission-tangguh-models/model-ml/model.json";
 let model;
 
 const loadModel = async () => {
