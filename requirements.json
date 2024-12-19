@@ -1,6 +1,6 @@
 {
-  "backend-service-url": "http://34.128.68.215:3000",
+  "backend-service-url": "http://34.128.100.119:3000",
   "frontend-service-url": "https://submissionmlgc-brilly.et.r.appspot.com",
   "project-id": "submissionmlgc-tangguh",
-  "bucket-name": "submission-tangguh-models"
+  "bucket-name": "submissionmlgc-tangguh-models"
 }
