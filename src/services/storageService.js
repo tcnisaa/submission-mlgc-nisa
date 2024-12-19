@@ -3,7 +3,7 @@ const path = require("path");
 
 const storageKeyPath = path.resolve(__dirname, "../utils/storage-key.json");
 const storage = new Storage({ keyFilename: storageKeyPath });
-const bucketName = "submission-brilly-models";
+const bucketName = "submissionmlgc-tangguh-models";
 const bucket = storage.bucket(bucketName);
 
 const uploadFile = async (buffer, mimetype, imageId) => {
